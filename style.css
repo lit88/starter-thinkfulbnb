@@ -155,13 +155,16 @@ footer p {
   form div {
     display: flex;
     flex-direction: column;
-    flex: 1;
+  }
+
+  form label {
+    align-self: flex-start;
   }
 
   form select,
   form input,
   form button {
-    width: 150px;
+    width: 100%;
     margin-bottom: 0px;
   }
 
