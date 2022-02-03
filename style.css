@@ -169,6 +169,11 @@ footer p {
     margin-bottom: 0px;
   }
 
+  form button {
+    font-size: 15px;
+    padding: 11px;
+  }
+
   main section div {
   display: flex;
   justify-content: center;
